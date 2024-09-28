@@ -3,4 +3,4 @@ payload:
   - DOMAIN-SUFFIX,testipv6.cn
   - DOMAIN-SUFFIX,ipv6-test.ch
   - IP-CIDR6,2a02:168:500a:1:5054:ff:fe1c/128
-
+  - DOMAIN-KEYWORD,ipv6
