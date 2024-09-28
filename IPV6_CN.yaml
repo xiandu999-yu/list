@@ -1,4 +1,4 @@
 payload:
-  - DOMAIN,test-ipv6.com
+  - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,testipv6.cn
   
