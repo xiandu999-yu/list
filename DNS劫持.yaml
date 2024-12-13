@@ -1,0 +1,22 @@
+payload:
+  - DOMAIN-SUFFIX,doh.sb
+  - DOMAIN,dns.google
+  - DOMAIN,dot.pub
+  - DOMAIN,dns.alidns.com
+  - DOMAIN,dns.hinet.net
+  - DOMAIN,dns.twnic.tw
+  - DOMAIN,cloudflare-dns.com
+  - DOMAIN,dns11.quad9.net
+  - IP-CIDR,114.114.114.114/24
+  - IP-CIDR,114.114.115.115/24
+  - IP-CIDR,119.28.28.28/24
+  - IP-CIDR,119.29.29.29/24
+  - IP-CIDR,223.5.5.5/24
+  - IP-CIDR,223.6.6.6/24
+  - IP-CIDR,117.50.10.10/24
+  - IP-CIDR,180.184.1.1/24
+  - IP-CIDR,180.184.2.2/24
+  - IP-CIDR,168.95.1.1/24
+  - IP-CIDR,1.2.4.8/24
+  - IP-CIDR,8.8.8.8/24
+  - IP-CIDR,8.8.4.4/24
