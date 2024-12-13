@@ -6,6 +6,7 @@ payload:
   - DOMAIN,dns.hinet.net
   - DOMAIN,dns.twnic.tw
   - DOMAIN,cloudflare-dns.com
+  - DOMAIN,dns.cloudflare.com
   - DOMAIN,dns11.quad9.net
   - IP-CIDR,114.114.114.114/24
   - IP-CIDR,114.114.115.115/24
