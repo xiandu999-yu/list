@@ -8,6 +8,7 @@ payload:
   - DOMAIN,cloudflare-dns.com
   - DOMAIN,dns.cloudflare.com
   - DOMAIN,dns11.quad9.net
+  - DOMAIN,doh.dns.sb
   - IP-CIDR,114.114.114.114/24
   - IP-CIDR,114.114.115.115/24
   - IP-CIDR,119.28.28.28/24
