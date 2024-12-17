@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,doh.sb
   - DOMAIN,dns.google
   - DOMAIN,dot.pub
+  - DOMAIN,doh.pub
   - DOMAIN,dns.alidns.com
   - DOMAIN,dns.hinet.net
   - DOMAIN,dns.twnic.tw
