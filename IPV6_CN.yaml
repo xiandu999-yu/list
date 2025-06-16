@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,testipv6.cn
   - DOMAIN-SUFFIX,ipv6-test.ch
   - DOMAIN,v6.ip.zxinc.org
+  - DOMAIN,nas.classchen.fun
