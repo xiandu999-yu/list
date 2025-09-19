@@ -1,11 +1,9 @@
 {
-  "route": {
-    "rules": [
-      {
-        "domain": [
-          "subhub.15356199.xyz"
-        ]
-      }
-    ]
-  }
+  "rules": [
+    {
+     "domain": [
+     "subhub.15356199.xyz"
+      ]
+    }
+  ]
 }
